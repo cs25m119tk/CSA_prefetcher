@@ -1,0 +1,25 @@
+Script started on 2026-04-29 20:29:43+00:00 [COMMAND="./bin/champsim --warmup-instructions 50000000 --simulation-instructions 100000000 /home/kumaru/project/473.astar-359B.champsimtrace.xz" TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="180" LINES="17"]
+[VMEM] WARNING: physical memory size is smaller than virtual memory size.
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+Warmup Instructions: 50000000
+Simulation Instructions: 100000000
+Number of CPUs: 1
+Page size: 4096
+
+Off-chip DRAM Size: 16 GiB Channels: 1 Width: 64-bit Data Rate: 3205 MT/s
+Heartbeat CPU 0 instructions: 10000004 cycles: 5929381 heartbeat IPC: 1.687 cumulative IPC: 1.687 (Simulation time: 00 hr 00 min 43 sec)
+Heartbeat CPU 0 instructions: 20000007 cycles: 8743517 heartbeat IPC: 3.553 cumulative IPC: 2.287 (Simulation time: 00 hr 01 min 13 sec)
+Heartbeat CPU 0 instructions: 30000011 cycles: 11411721 heartbeat IPC: 3.748 cumulative IPC: 2.629 (Simulation time: 00 hr 01 min 41 sec)
+Heartbeat CPU 0 instructions: 40000015 cycles: 14089926 heartbeat IPC: 3.734 cumulative IPC: 2.839 (Simulation time: 00 hr 02 min 10 sec)
+Warmup finished CPU 0 instructions: 50000002 cycles: 16822767 cumulative IPC: 2.972 (Simulation time: 00 hr 02 min 39 sec)
+Warmup complete CPU 0 instructions: 50000002 cycles: 16822767 cumulative IPC: 2.972 (Simulation time: 00 hr 02 min 39 sec)
+Heartbeat CPU 0 instructions: 50000017 cycles: 16822770 heartbeat IPC: 3.659 cumulative IPC: 5 (Simulation time: 00 hr 02 min 39 sec)
+Heartbeat CPU 0 instructions: 60000017 cycles: 88579973 heartbeat IPC: 0.1394 cumulative IPC: 0.1394 (Simulation time: 00 hr 07 min 00 sec)
+Heartbeat CPU 0 instructions: 70000017 cycles: 161901013 heartbeat IPC: 0.1364 cumulative IPC: 0.1379 (Simulation time: 00 hr 11 min 27 sec)
+Heartbeat CPU 0 instructions: 80000020 cycles: 233666075 heartbeat IPC: 0.1393 cumulative IPC: 0.1383 (Simulation time: 00 hr 16 min 07 sec)
+Heartbeat CPU 0 instructions: 90000020 cycles: 305578083 heartbeat IPC: 0.1391 cumulative IPC: 0.1385 (Simulation time: 00 hr 20 min 43 sec)
+Heartbeat CPU 0 instructions: 100000020 cycles: 380291234 heartbeat IPC: 0.1338 cumulative IPC: 0.1376 (Simulation time: 00 hr 25 min 33 sec)
+Heartbeat CPU 0 instructions: 110000024 cycles: 456074760 heartbeat IPC: 0.132 cumulative IPC: 0.1366 (Simulation time: 00 hr 30 min 19 sec)
+^C
+Script done on 2026-04-29 21:03:15+00:00 [COMMAND_EXIT_CODE="130"]
